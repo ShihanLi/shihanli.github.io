@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Thoughts"
+date:   2024-11-02 14:55:43 -0700
+categories: thoughts
+---
+
+1. You can't compete with AI on breadth. It knows the totality of available human knowledge. To be essential, you need to go deep and be specialized. Be an expert on something that very few other people know about, which makes it likely the LLMs doesn't either. The future is for specialists.
