@@ -9,7 +9,7 @@ categories: essays
 
 I had my annual health exam while in Beijing. What would have taken months to schedule and complete in the US, I arranged for the next day through Wechat, selecting around 20 different health metrics to measure. 
 
-The hospital operates like an assembly line. At check-in, they hand you a routing sheet with your first room number at the top, followed by empty numbered lines connected by arrows - a map of your journey through the system. Each room specializes in one type of test: eye exams, blood work, CT scans, heart monitoring… Outside every room, a digital display shows the current patient and waiting list, like a McDanold display showing who’s being served now and whos next..
+The hospital operates like an assembly line. At check-in, they hand you a routing sheet with your first room number at the top, followed by empty numbered lines connected by arrows - a map of your journey through the system. Each room specializes in one type of test: eye exams, blood work, CT scans, heart monitoring… Outside every room, a digital display shows the current patient and waiting list, like a Mcdonald's display showing who’s being served now and whos next..
 
 After each exam, the process runs like clockwork: the doctor enters the results into their system and signs off on your sheet. The software, knowing the wait times and processing speed of each room, calculates your optimal next destination to minimize waiting. The doctor writes this next room number on your sheet, and you move on. No wandering through hallways wondering where to go next, no sitting in crowded waiting rooms hoping to hear your name called.
 
