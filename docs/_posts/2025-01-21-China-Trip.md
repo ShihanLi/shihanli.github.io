@@ -2,7 +2,7 @@
 layout: post
 title:  "China Trip"
 date:   2025-01-21 23:24:43 -0700
-categories: thoughts
+categories: essays
 ---
 
 ## Hospitals
