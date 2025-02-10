@@ -28,6 +28,8 @@ mastodon:
 - username: henryli
   instance: mastodon.social
 
+google_analytics: G-2YJ9HSG2GV
+
 # Build settings
 theme: minima
 plugins:
