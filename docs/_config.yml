@@ -28,6 +28,8 @@ linkedin: https://www.linkedin.com/in/lshhenry/
 
 google_analytics: G-2YJ9HSG2GV
 
+future: true
+
 # Build settings
 theme: minima
 plugins:
