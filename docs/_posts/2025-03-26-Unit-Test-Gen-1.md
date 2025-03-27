@@ -4,7 +4,6 @@ title:  "Automated Unit Test Generation Pt.1"
 date:   2025-03-26 23:24:43 -0800
 categories: projects
 ---
-# Automated Unit Test Generation Pt.1
 
 <h2>The Opportunity</h2>
 
