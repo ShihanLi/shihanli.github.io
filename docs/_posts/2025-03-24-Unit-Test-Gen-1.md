@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Automated Unit Test Generation Pt.1"
-date:   2025-03-25 23:24:43 -0800
+date:   2025-03-24 23:24:43 -0800
 categories: projects
 ---
 
