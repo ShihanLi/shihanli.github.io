@@ -17,6 +17,7 @@ This is an opinionated travel guide. Obviously not the only way to have a great 
 - Peruse rare books at Carson's books and records
 - Dinner at Tableau bar bistro
 
+
 2. West Vancouver (August, need car)
 - Late morning brunch
 - Relax and read at Ambleside beach
