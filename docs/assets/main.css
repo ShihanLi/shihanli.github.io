@@ -661,18 +661,61 @@ table td {
 /* Row of images with captions */
 .images-row {
   display: flex;
-  gap: 20px;
+  gap: 24px;
   justify-content: center;
   text-align: center;
-  padding: 0 16px;                          /* small inner padding */
-  flex-wrap: wrap;                          /* wrap on smaller screens */
+  padding: 2rem 16px;
+  flex-wrap: wrap;
 }
 
-.images-row figure { margin: 0; }
-.images-row img { width: 260px; height: auto; }   /* make them bigger */
-.images-row figcaption { font-size: 0.9rem; color: #6b7280; margin-top: .4rem; }
+.images-row figure {
+  margin: 0;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  flex: 1 1 180px;
+  max-width: 260px;
+}
+
+.images-row figure:hover {
+  transform: translateY(-8px);
+}
+
+.images-row img {
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s ease;
+}
+
+.images-row figure:hover img {
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.15), 0 10px 10px -5px rgba(0, 0, 0, 0.1);
+}
+
+.images-row figcaption {
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin-top: 0.75rem;
+  font-weight: 500;
+  opacity: 0.8;
+}
+
+.thanks {
+  font-size: 14px;
+  color: #828282;
+  margin-top: 40px;
+  padding-top: 15px;
+  border-top: 1px solid #e8e8e8;
+}
 
 /* Phone tweaks */
 @media (max-width: 768px) {
-  .images-row img { width: 44vw; }          /* responsive size on phones */
+  .images-row {
+    gap: 16px;
+  }
+  .images-row figure {
+    flex: 1 1 140px;
+  }
+  .images-row img {
+    border-radius: 12px;
+  }
 }
