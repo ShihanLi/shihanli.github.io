@@ -7,7 +7,7 @@ categories: projects
 
 I built a tiny clipboard manager for Mac, and so far it's been a joy to use.
 
-Tapping `⌘V` pastes as usual. Holding `⌘V` opens a popup of the last 50 copies next to your mouse.
+Tapping `⌘V` pastes as usual. Holding `⌘V` opens a popup of the last 50 copies next to your mouse. You can select entries to paste using `arrow keys + pressing return` or `1-9` for the first 9 items.
 
 <p align="center">
   <img src="/assets/photos/clipboard-demo.png" alt="Clipboard Demo" width="420" style="border-radius: 12px; box-shadow: 0 6px 24px rgba(0, 0, 0, 0.18);"/>
